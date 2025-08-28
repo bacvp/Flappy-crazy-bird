@@ -1,0 +1,5 @@
+{
+  "name": "Flappy Bird Online",
+  "description": "A classic Flappy Bird game built with React and TypeScript, playable in your browser. Flap your way through the pipes and try to get the high score!",
+  "requestFramePermissions": []
+}
